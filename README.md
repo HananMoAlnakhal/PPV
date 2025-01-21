@@ -30,16 +30,21 @@ exp.setup(data, target = 'PPV', session_id = 123,ordinal_features=None,preproces
 ## 7. made the model 
 > using this code `lightgbm = exp.create_model('lightgbm', fold=5)`
 ## 8. Made essential plots 
-residuals
+
 ![residuals](https://github.com/user-attachments/assets/628530ed-b686-496f-b833-6d8d9986fa5b)
+residuals
+
+![model error](https://github.com/user-attachments/assets/13b6c4c5-428f-4584-83f3-551d21ec93bb)
 model error
-2. ![model error](https://github.com/user-attachments/assets/13b6c4c5-428f-4584-83f3-551d21ec93bb)
+
+![learning cuve](https://github.com/user-attachments/assets/e5fe0eca-7b86-423a-814e-823865e7ebf9)
 learning curve
-3. ![learning cuve](https://github.com/user-attachments/assets/e5fe0eca-7b86-423a-814e-823865e7ebf9)
+
+![Validation curve](https://github.com/user-attachments/assets/e31999cb-6617-413a-b52f-06e023effe99)
 Validation curve
-4. ![Validation curve](https://github.com/user-attachments/assets/e31999cb-6617-413a-b52f-06e023effe99)
+
+![feature importance](https://github.com/user-attachments/assets/be2fa200-d311-48f6-a503-afe1508cb57a)
 feature importance
-5. ![feature importance](https://github.com/user-attachments/assets/be2fa200-d311-48f6-a503-afe1508cb57a)
 
 ## 9. saw the tuned model 
 > (the tuned model turned out to be worse btw)
@@ -61,5 +66,6 @@ feature importance
 ## 13. saved the model as PPV.pkl
 
 # to see the work:
-## Download the `PPV.pkl` file and load it into your env
-## or explore the notebook `ML_Reg.ipynb`
+> Download the `PPV.pkl` file and load it into your env
+
+>or explore the notebook `ML_Reg.ipynb`
