@@ -1,9 +1,9 @@
 # PPV
 this is a regression model using Pycaret
 # resources:
-[PyCaret Regression Tutorial](https://nbviewer.org/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Regression.ipynb)
-[PyCaret 2 Regression Example](https://nbviewer.org/github/pycaret/examples/blob/main/PyCaret%202%20Regression.ipynb)
-[Prof. Pedram Jahangiry](https://colab.research.google.com/github/PJalgotrader/platforms-and-tools/blob/main/PyCaret/PyCaret-RegressionDemo.ipynb#scrollTo=BVaWoaM1-sWJ)
+- [PyCaret Regression Tutorial](https://nbviewer.org/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Regression.ipynb)
+- [PyCaret 2 Regression Example](https://nbviewer.org/github/pycaret/examples/blob/main/PyCaret%202%20Regression.ipynb)
+- [Prof. Pedram Jahangiry](https://colab.research.google.com/github/PJalgotrader/platforms-and-tools/blob/main/PyCaret/PyCaret-RegressionDemo.ipynb#scrollTo=BVaWoaM1-sWJ)
 
 # 1. Installing +importing libraries
 `!pip install pycaret[full]`
